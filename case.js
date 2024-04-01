@@ -20,7 +20,9 @@ function swapCase(text) {
                 break;
 
            
-            }
+            
+
+}
 
     }
 
